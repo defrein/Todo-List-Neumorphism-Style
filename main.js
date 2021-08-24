@@ -126,21 +126,3 @@ function undoDone(index) {
     showTaskDone();
 }
 
-
-/* Jadi sekarang, todo list ini bisa:
--menginput list baru
--mendapatkan nilai list baru
--memasukkannya ke dalam array di localstorage
--menampilkan list baru ke browser
--menghapus list
--menghapust item array yg di hapus berdasarkan index nya di array localstorage
-*/
-/* Selanjutnya saya mau:
--dapat menekan tombol done
--menghapus todo yang sudah selesai dari listArrDone
--menambah todo yang sudah selesai ke array baru listArrDone
--menampilkan todo yang sudah selesai ke list sudah selesai
-
-*/
-
-// fungsi "done" belum selesai! saya bingung
